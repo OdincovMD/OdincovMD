@@ -7,12 +7,15 @@
 *I don't just write code — I solve real-world problems in **healthcare and computer vision**.  
 Constantly learning, building, and sharing.*
 
+[![Sber](https://img.shields.io/badge/Sber-21A038?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBmaWxsPSIjMjFBMDM4IiBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=white)](https://www.sber.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OdincovMD)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hardbox1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mihailodin1)
-[![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge)](https://stepik.org/users/658709050/profile)
+[![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADgElEQVR4nMWXPU8jVxSGnztjGQY322cFFgX8hBRGlqBKl5aPBtuyaGwt/wGRygXIP4ACCZoUhCrlshbRRkKALCgRSqStWWyER/6YNwUzznjwLHbYiCNd2R7fe97z8Z5zz8Abi/kPZyx/CfBCz4z/24s592oxgD3CPpsxHBt1o+HJY4AZ4GcgA/zgP/sCnAK/AX8NOfMqsfzPJPAL0PAVD1sNf08ycvbV4O+AjwGQMaaTSCS64WWM6YQM+eifeZURQb7fAZ99xW3LsjziI+ABbf/755ARsdyJ44AN9HwFvwM/Al3bthO9Xg/HcVhdXSWTyQBQq9U4PDzEdV2MMUjqAgngT+An4GtI54sSDnvgece2bQGanZ3V5eWlonJ2dqapqSlZliVjjIAgJeFIvJiOICKx4Le3t5KkXq/XB+90OlpfX1cymVQymZRt298yIrbygjpPAp9eAm80GioUCiqXy1peXh7KiYgRn3zdsX0iIMo2/xIuFjyTyQyAzc/PK5/Pq1wua3FxMWpEQMztCFZfgty8Bx6BXsD2b4FPTk4K0Pb2tlzXHeDEycmJpqenBcjX1fN1v49gAk+MBfjgW90xxiiVSun6+noo+MTEhABVq9VnnPA8T5JUr9fDxAxS8SGCORCSXwEvkUh0ABWLRUlSu93W3d1dLHir1ZIkHR0dqVKpqNlsqt1uS5JyuZwA+To9H+NZGgJS/OFv7gLa39/ve5bP5wfCHoA/Pj5KknZ2dvp539jY6Edlb29PYZ0+Rh9z5DZpzJONrutSrVYplUq0Wi0cx2F3d5fNzU0cxwFAGv8OejEFjUZDlUpFx8fHA2EPPA8ik81mdX9/P3YKYkl4dXU1QKww4YaBPzw89P+v1+tyHGckEsaWYTqdVq1WGyixVqulra0tAXIcZwC82+1Kkm5ubjQzMzNyGYZD0m9EfhMRoKWlJZXLZeVyOc3NzQ00oWw2q2azOQCeTqcD8JEaEcS04qAbRtfa2ppKpZKKxeJA2MPgfhsfuRVDzGVkjJFt2/3LplAo9L2VNNTzCPhIl1EgQ69jY4wsy1IqldLFxYWicn5+Pgr4s7yPNZAYYxKScByHlZUVFhYWkMTp6SkHBwe4rotlWXie96qBJGxENBJtnmp5KC98to81kr0kbzqURo0YZSy/Z8yx/Hu/mBwBfw85813kTV/NwvJmL6f/i/wDx2RSsIZmfd8AAAAASUVORK5CYII=)](https://stepik.org/users/658709050/profile)
 
 </div>
+
+<sub>Stepik: [official logos (Google Drive)](https://drive.google.com/drive/folders/1EKEJlU_ccytfHZGqRH3A6uXtn0AVVFNx) · Sber: [logo (Wikimedia)](https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Sberbank_Logo_2020.svg)</sub>
 
 ---
 
@@ -36,6 +39,7 @@ Constantly learning, building, and sharing.*
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 **ML & Infrastructure**
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -95,7 +99,7 @@ Constantly learning, building, and sharing.*
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hardbox1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mihailodin1)
-[![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge)](https://stepik.org/users/658709050/profile)
+[![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADgElEQVR4nMWXPU8jVxSGnztjGQY322cFFgX8hBRGlqBKl5aPBtuyaGwt/wGRygXIP4ACCZoUhCrlshbRRkKALCgRSqStWWyER/6YNwUzznjwLHbYiCNd2R7fe97z8Z5zz8Abi/kPZyx/CfBCz4z/24s592oxgD3CPpsxHBt1o+HJY4AZ4GcgA/zgP/sCnAK/AX8NOfMqsfzPJPAL0PAVD1sNf08ycvbV4O+AjwGQMaaTSCS64WWM6YQM+eifeZURQb7fAZ99xW3LsjziI+ABbf/755ARsdyJ44AN9HwFvwM/Al3bthO9Xg/HcVhdXSWTyQBQq9U4PDzEdV2MMUjqAgngT+An4GtI54sSDnvgece2bQGanZ3V5eWlonJ2dqapqSlZliVjjIAgJeFIvJiOICKx4Le3t5KkXq/XB+90OlpfX1cymVQymZRt298yIrbygjpPAp9eAm80GioUCiqXy1peXh7KiYgRn3zdsX0iIMo2/xIuFjyTyQyAzc/PK5/Pq1wua3FxMWpEQMztCFZfgty8Bx6BXsD2b4FPTk4K0Pb2tlzXHeDEycmJpqenBcjX1fN1v49gAk+MBfjgW90xxiiVSun6+noo+MTEhABVq9VnnPA8T5JUr9fDxAxS8SGCORCSXwEvkUh0ABWLRUlSu93W3d1dLHir1ZIkHR0dqVKpqNlsqt1uS5JyuZwA+To9H+NZGgJS/OFv7gLa39/ve5bP5wfCHoA/Pj5KknZ2dvp539jY6Edlb29PYZ0+Rh9z5DZpzJONrutSrVYplUq0Wi0cx2F3d5fNzU0cxwFAGv8OejEFjUZDlUpFx8fHA2EPPA8ik81mdX9/P3YKYkl4dXU1QKww4YaBPzw89P+v1+tyHGckEsaWYTqdVq1WGyixVqulra0tAXIcZwC82+1Kkm5ubjQzMzNyGYZD0m9EfhMRoKWlJZXLZeVyOc3NzQ00oWw2q2azOQCeTqcD8JEaEcS04qAbRtfa2ppKpZKKxeJA2MPgfhsfuRVDzGVkjJFt2/3LplAo9L2VNNTzCPhIl1EgQ69jY4wsy1IqldLFxYWicn5+Pgr4s7yPNZAYYxKScByHlZUVFhYWkMTp6SkHBwe4rotlWXie96qBJGxENBJtnmp5KC98to81kr0kbzqURo0YZSy/Z8yx/Hu/mBwBfw85813kTV/NwvJmL6f/i/wDx2RSsIZmfd8AAAAASUVORK5CYII=)](https://stepik.org/users/658709050/profile)
 
 </div>
 

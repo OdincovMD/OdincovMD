@@ -1,0 +1,35 @@
+# Updates Stepik streak in README from Stepik API (runs daily)
+name: Update Stepik streak
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Stepik streak and update README
+        id: stepik
+        run: |
+          RESPONSE=$(curl -s "https://stepik.org/api/user-activity-summaries/658709050")
+          STREAK=$(echo "$RESPONSE" | jq -r '.["user-activity-summaries"][0].recent_strike // empty')
+          if [ -z "$STREAK" ]; then
+            echo "Could not fetch streak, skipping update"
+            exit 0
+          fi
+          echo "streak=$STREAK" >> $GITHUB_OUTPUT
+          sed -i "s/<!-- stepik_streak -->[0-9]*<!-- \/stepik_streak -->/<!-- stepik_streak -->$STREAK<!-- \/stepik_streak -->/g" README.md
+
+      - name: Commit and push
+        if: steps.stepik.outputs.streak != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update Stepik streak" && git push)
