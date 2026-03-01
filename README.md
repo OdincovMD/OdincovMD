@@ -51,8 +51,6 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OdincovMD&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" /></a><br />
-  <a href="https://github.com/OdincovMD"><img src="https://github-readme-stats.vercel.app/api?username=OdincovMD&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub stats" /></a><br />
-  <a href="https://github.com/OdincovMD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdincovMD&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7" alt="Top Langs" /></a>
 </p>
 
 ---
