@@ -48,11 +48,11 @@ Constantly learning, building, and sharing.*
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OdincovMD&theme=dark&hide_border=true&background=0D1117)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![OdincovMD's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdincovMD&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/OdincovMD)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdincovMD&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7)](https://github.com/OdincovMD)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OdincovMD&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" /></a><br />
+  <a href="https://github.com/OdincovMD"><img src="https://github-readme-stats.vercel.app/api?username=OdincovMD&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub stats" /></a><br />
+  <a href="https://github.com/OdincovMD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdincovMD&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7" alt="Top Langs" /></a>
+</p>
 
 ---
 
@@ -89,12 +89,16 @@ Constantly learning, building, and sharing.*
 
 ## Get in Touch
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hardbox1)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mihailodin1)
-[![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADgElEQVR4nMWXPU8jVxSGnztjGQY322cFFgX8hBRGlqBKl5aPBtuyaGwt/wGRygXIP4ACCZoUhCrlshbRRkKALCgRSqStWWyER/6YNwUzznjwLHbYiCNd2R7fe97z8Z5zz8Abi/kPZyx/CfBCz4z/24s592oxgD3CPpsxHBt1o+HJY4AZ4GcgA/zgP/sCnAK/AX8NOfMqsfzPJPAL0PAVD1sNf08ycvbV4O+AjwGQMaaTSCS64WWM6YQM+eifeZURQb7fAZ99xW3LsjziI+ABbf/755ARsdyJ44AN9HwFvwM/Al3bthO9Xg/HcVhdXSWTyQBQq9U4PDzEdV2MMUjqAgngT+An4GtI54sSDnvgece2bQGanZ3V5eWlonJ2dqapqSlZliVjjIAgJeFIvJiOICKx4Le3t5KkXq/XB+90OlpfX1cymVQymZRt298yIrbygjpPAp9eAm80GioUCiqXy1peXh7KiYgRn3zdsX0iIMo2/xIuFjyTyQyAzc/PK5/Pq1wua3FxMWpEQMztCFZfgty8Bx6BXsD2b4FPTk4K0Pb2tlzXHeDEycmJpqenBcjX1fN1v49gAk+MBfjgW90xxiiVSun6+noo+MTEhABVq9VnnPA8T5JUr9fDxAxS8SGCORCSXwEvkUh0ABWLRUlSu93W3d1dLHir1ZIkHR0dqVKpqNlsqt1uS5JyuZwA+To9H+NZGgJS/OFv7gLa39/ve5bP5wfCHoA/Pj5KknZ2dvp539jY6Edlb29PYZ0+Rh9z5DZpzJONrutSrVYplUq0Wi0cx2F3d5fNzU0cxwFAGv8OejEFjUZDlUpFx8fHA2EPPA8ik81mdX9/P3YKYkl4dXU1QKww4YaBPzw89P+v1+tyHGckEsaWYTqdVq1WGyixVqulra0tAXIcZwC82+1Kkm5ubjQzMzNyGYZD0m9EfhMRoKWlJZXLZeVyOc3NzQ00oWw2q2azOQCeTqcD8JEaEcS04qAbRtfa2ppKpZKKxeJA2MPgfhsfuRVDzGVkjJFt2/3LplAo9L2VNNTzCPhIl1EgQ69jY4wsy1IqldLFxYWicn5+Pgr4s7yPNZAYYxKScByHlZUVFhYWkMTp6SkHBwe4rotlWXie96qBJGxENBJtnmp5KC98to81kr0kbzqURo0YZSy/Z8yx/Hu/mBwBfw85813kTV/NwvJmL6f/i/wDx2RSsIZmfd8AAAAASUVORK5CYII=)](https://stepik.org/users/658709050/profile)
+<p align="center">
+  <a href="https://t.me/hardbox1"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.kaggle.com/mihailodin1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://stepik.org/users/658709050/profile"><img src="https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADgElEQVR4nMWXPU8jVxSGnztjGQY322cFFgX8hBRGlqBKl5aPBtuyaGwt/wGRygXIP4ACCZoUhCrlshbRRkKALCgRSqStWWyER/6YNwUzznjwLHbYiCNd2R7fe97z8Z5zz8Abi/kPZyx/CfBCz4z/24s592oxgD3CPpsxHBt1o+HJY4AZ4GcgA/zgP/sCnAK/AX8NOfMqsfzPJPAL0PAVD1sNf08ycvbV4O+AjwGQMaaTSCS64WWM6YQM+eifeZURQb7fAZ99xW3LsjziI+ABbf/755ARsdyJ44AN9HwFvwM/Al3bthO9Xg/HcVhdXSWTyQBQq9U4PDzEdV2MMUjqAgngT+An4GtI54sSDnvgece2bQGanZ3V5eWlonJ2dqapqSlZliVjjIAgJeFIvJiOICKx4Le3t5KkXq/XB+90OlpfX1cymVQymZRt298yIrbygjpPAp9eAm80GioUCiqXy1peXh7KiYgRn3zdsX0iIMo2/xIuFjyTyQyAzc/PK5/Pq1wua3FxMWpEQMztCFZfgty8Bx6BXsD2b4FPTk4K0Pb2tlzXHeDEycmJpqenBcjX1fN1v49gAk+MBfjgW90xxiiVSun6+noo+MTEhABVq9VnnPA8T5JUr9fDxAxS8SGCORCSXwEvkUh0ABWLRUlSu93W3d1dLHir1ZIkHR0dqVKpqNlsqt1uS5JyuZwA+To9H+NZGgJS/OFv7gLa39/ve5bP5wfCHoA/Pj5KknZ2dvp539jY6Edlb29PYZ0+Rh9z5DZpzJONrutSrVYplUq0Wi0cx2F3d5fNzU0cxwFAGv8OejEFjUZDlUpFx8fHA2EPPA8ik81mdX9/P3YKYkl4dXU1QKww4YaBPzw89P+v1+tyHGckEsaWYTqdVq1WGyixVqulra0tAXIcZwC82+1Kkm5ubjQzMzNyGYZD0m9EfhMRoKWlJZXLZeVyOc3NzQ00oWw2q2azOQCeTqcD8JEaEcS04qAbRtfa2ppKpZKKxeJA2MPgfhsfuRVDzGVkjJFt2/3LplAo9L2VNNTzCPhIl1EgQ69jY4wsy1IqldLFxYWicn5+Pgr4s7yPNZAYYxKScByHlZUVFhYWkMTp6SkHBwe4rotlWXie96qBJGxENBJtnmp5KC98to81kr0kbzqURo0YZSy/Z8yx/Hu/mBwBfw85813kTV/NwvJmL6f/i/wDx2RSsIZmfd8AAAAASUVORK5CYII=" alt="Stepik" /></a>
+</p>
 
 <p align="center">
   <b>If you find any of my projects useful — a star would mean a lot.</b>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OdincovMD&color=2E9EF7&style=flat-square&label=profile+views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OdincovMD&color=2E9EF7&style=flat-square&label=profile+views" alt="Profile Views" />
+</p>
