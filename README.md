@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Mikhail+Odintsov;ML+Engineer+%7C+Kaggle+Expert+%7C+Healthcare+%26+CV" alt="Typing SVG" />
 </p>
 
-**Middle ML Engineer @ Sber** · Kaggle Expert · Stepik streak: **<!-- stepik_streak -->525<!-- /stepik_streak -->** days
-
-*I don't just write code — I solve real-world problems in **healthcare and computer vision**.  
-Constantly learning, building, and sharing.*
+<p align="center">
+  <strong>Middle ML Engineer @ Sber</strong> · Kaggle Expert · Stepik streak: <strong><!-- stepik_streak -->525<!-- /stepik_streak --></strong> days<br /><br />
+  <em>I don't just write code — I solve real-world problems in <strong>healthcare and computer vision</strong>.<br />
+  Constantly learning, building, and sharing.</em>
+</p>
 
 <p align="center">
   <a href="https://www.sber.ru"><img src="https://img.shields.io/badge/Sber-21A038?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBmaWxsPSIjMjFBMDM4IiBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=white" alt="Sber" /></a>
