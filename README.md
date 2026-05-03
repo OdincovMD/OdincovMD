@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Middle ML Engineer @ Sber</strong> · Kaggle Expert · Stepik streak: <strong><!-- stepik_streak -->587<!-- /stepik_streak --></strong> days<br /><br />
-  <em>I don't just write code — I solve real-world problems in <strong>healthcare and computer vision</strong>.<br />
+  <em>I build applied ML systems across <strong>healthcare, computer vision, multimodal AI, and product engineering</strong>.<br />
   Constantly learning, building, and sharing.</em>
 </p>
 
@@ -36,14 +36,20 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **ML & Infrastructure**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
@@ -59,12 +65,15 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**startup / Synthezum**](https://github.com/OdincovMD/startup) | University tech entrepreneurship platform connecting researchers, labs, organizations, vacancies, and scientific requests | `FastAPI` `React` `PostgreSQL` `Elasticsearch` |
+| [**img2txt**](https://github.com/OdincovMD/img2txt) | Clinical description microservice for `skin-cancer-ai`: dermoscopy features, ranking, and LLM-based report generation | `Medical AI` `Computer Vision` `LLM` |
 | [**LDT**](https://github.com/OdincovMD/LDT) | Real-time CTG analysis system for early detection of fetal hypoxia risk | `Python` `ML` `Signal Processing` |
-| [**skin-cancer-ai**](https://github.com/OdincovMD/skin-cancer-ai) | Melanoma detection using Kittler's method | `Computer Vision` `Healthcare` |
-| [**Practice**](https://github.com/OdincovMD/Practice) | Early pneumonia diagnosis based on chest X-ray images | `Deep Learning` `Medical Imaging` |
-| [**SimpleAutoML**](https://github.com/OdincovMD/SimpleAutoML) | AutoML system for computer vision tasks | `AutoML` `CV` |
+| [**skin-cancer-ai**](https://github.com/OdincovMD/skin-cancer-ai) | Melanoma detection pipeline with dermoscopy analysis and clinical description generation | `Computer Vision` `Healthcare` `Docker` |
+| [**Practice**](https://github.com/OdincovMD/Practice) | Early pneumonia diagnosis system based on chest X-ray images | `Deep Learning` `Medical Imaging` `FastAPI` |
+| [**SimpleAutoML**](https://github.com/OdincovMD/SimpleAutoML) | Lightweight AutoML system for computer vision experiments | `AutoML` `CV` `Python` |
+| [**Sber Grace Assistant**](https://github.com/OdincovMD/sber-assistant) | Local finance monitoring assistant with SMS parsing, background jobs, and LLM-driven recommendations | `Python` `Ollama` `Automation` |
 
-> **Now:** Building a **unified platform for scientific hiring**. Sometimes in PM mode.
+> **Now:** Building scientific hiring platforms, medical AI tooling, and practical LLM-assisted automation.
 
 ---
 
