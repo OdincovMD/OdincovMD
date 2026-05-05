@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sber.ru"><img src="https://img.shields.io/badge/Sber-21A038?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBmaWxsPSIjMjFBMDM4IiBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=white" alt="Sber" /></a>
+  <a href="https://www.sber.ru"><img src="./sber-badge.svg" alt="Sber" height="28" /></a>
   <a href="https://github.com/OdincovMD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://t.me/hardbox1"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.kaggle.com/mihailodin1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
@@ -63,15 +63,15 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**startup / Synthezum**](https://github.com/OdincovMD/startup) | University tech entrepreneurship platform connecting researchers, labs, organizations, vacancies, and scientific requests | `FastAPI` `React` `PostgreSQL` `Elasticsearch` |
-| [**img2txt**](https://github.com/OdincovMD/img2txt) | Clinical description microservice for `skin-cancer-ai`: dermoscopy features, ranking, and LLM-based report generation | `Medical AI` `Computer Vision` `LLM` |
-| [**LDT**](https://github.com/OdincovMD/LDT) | Real-time CTG analysis system for early detection of fetal hypoxia risk | `Python` `ML` `Signal Processing` |
-| [**skin-cancer-ai**](https://github.com/OdincovMD/skin-cancer-ai) | Melanoma detection pipeline with dermoscopy analysis and clinical description generation | `Computer Vision` `Healthcare` `Docker` |
-| [**Practice**](https://github.com/OdincovMD/Practice) | Early pneumonia diagnosis system based on chest X-ray images | `Deep Learning` `Medical Imaging` `FastAPI` |
-| [**SimpleAutoML**](https://github.com/OdincovMD/SimpleAutoML) | Lightweight AutoML system for computer vision experiments | `AutoML` `CV` `Python` |
-| [**Sber Grace Assistant**](https://github.com/OdincovMD/sber-assistant) | Local finance monitoring assistant with SMS parsing, background jobs, and LLM-driven recommendations | `Python` `Ollama` `Automation` |
+| Project | Description | Stack | Live |
+| :--- | :--- | :--- | :--- |
+| [**startup / Synthezum**](https://github.com/OdincovMD/startup) | University tech entrepreneurship platform connecting researchers, labs, organizations, vacancies, and scientific requests | `FastAPI` `React` `PostgreSQL` `Elasticsearch` | [api.pi-hardbox.ru](https://api.pi-hardbox.ru/) |
+| [**img2txt**](https://github.com/OdincovMD/img2txt) | Clinical description microservice for `skin-cancer-ai`: dermoscopy features, ranking, and LLM-based report generation | `Medical AI` `Computer Vision` `LLM` | [skin-cancer-ai.ru](https://skin-cancer-ai.ru/) |
+| [**LDT**](https://github.com/OdincovMD/LDT) | Real-time CTG analysis system for early detection of fetal hypoxia risk | `Python` `ML` `Signal Processing` | - |
+| [**skin-cancer-ai**](https://github.com/OdincovMD/skin-cancer-ai) | Melanoma detection pipeline with dermoscopy analysis and clinical description generation | `Computer Vision` `Healthcare` `Docker` | [skin-cancer-ai.ru](https://skin-cancer-ai.ru/) |
+| [**Practice**](https://github.com/OdincovMD/Practice) | Early pneumonia diagnosis system based on chest X-ray images | `Deep Learning` `Medical Imaging` `FastAPI` | [api.pneumonia-ai.ru](https://api.pneumonia-ai.ru/) |
+| [**SimpleAutoML**](https://github.com/OdincovMD/SimpleAutoML) | Lightweight AutoML system for computer vision experiments | `AutoML` `CV` `Python` | - |
+| [**Sber Grace Assistant**](https://github.com/OdincovMD/sber-assistant) | Local finance monitoring assistant with SMS parsing, background jobs, and LLM-driven recommendations | `Python` `Ollama` `Automation` | - |
 
 > **Now:** Building scientific hiring platforms, medical AI tooling, and practical LLM-assisted automation.
 
