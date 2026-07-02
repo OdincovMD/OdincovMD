@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Mikhail+Odintsov;ML+Engineer+%7C+Kaggle+Expert+%7C+Healthcare+%26+CV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Mikhail+Odintsov;ML+Engineer+%7C+Healthcare+AI+%7C+Product+Engineering;Building+ML%2C+LLM%2C+IoT+and+data+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <strong>Middle ML Engineer @ Sber</strong> · Kaggle Expert · Stepik streak: <strong><!-- stepik_streak -->647<!-- /stepik_streak --></strong> days<br /><br />
-  <em>I build applied ML systems across <strong>healthcare, computer vision, multimodal AI, and product engineering</strong>.<br />
-  Constantly learning, building, and sharing.</em>
+  <em>I build applied ML systems across <strong>healthcare, computer vision, LLM tooling, IoT, and product engineering</strong>.<br />
+  I like turning research ideas into working services, dashboards, and production-ready prototypes.</em>
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@
 
 - [Tech Stack](#tech-stack)
 - [GitHub Stats](#github-stats)
+- [Latest Builds](#latest-builds)
 - [Featured Projects](#featured-projects)
 - [Achievements](#achievements)
 - [Education](#education)
@@ -34,6 +35,8 @@
 **Languages & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,8 +46,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -61,19 +67,34 @@
 
 ---
 
+## Latest Builds
+
+Recent work I am especially excited about:
+
+- **[Sintezum](https://github.com/OdincovMD/Sintezum)** — university tech entrepreneurship platform with labs, organizations, vacancies, scientific requests, roles, admin flows, and production Docker setup.
+- **[laser-energy-monitor](https://github.com/OdincovMD/laser-energy-monitor)** — WPF desktop application for laser-energy measurement, stability checks, export, simulation mode, and BeamGage/Ophir equipment integrations.
+- **[arduino-bridge](https://github.com/OdincovMD/arduino-bridge)** — Arduino + ESP8266 bridge with a lightweight text protocol, FastAPI backend, PostgreSQL storage, nginx edge proxy, and device command queue.
+- **[ai-copilot-for-learning-on-Stepik](https://github.com/OdincovMD/ai-copilot-for-learning-on-Stepik)** — product and architecture concept for a Stepik learning copilot that supports understanding without giving away ready answers.
+- **[skin-cancer-ai](https://github.com/OdincovMD/skin-cancer-ai)** + **[img2txt](https://github.com/OdincovMD/img2txt)** — interpretable dermoscopy pipeline with segmentation, Kittler-style decision logic, feature extraction, ranking, and clinical description generation.
+
+---
+
 ## Featured Projects
 
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :--- |
-| [**startup / Synthezum**](https://github.com/OdincovMD/startup) | University tech entrepreneurship platform connecting researchers, labs, organizations, vacancies, and scientific requests | `FastAPI` `React` `PostgreSQL` `Elasticsearch` | [api.pi-hardbox.ru](https://api.pi-hardbox.ru/) |
-| [**img2txt**](https://github.com/OdincovMD/img2txt) | Clinical description microservice for `skin-cancer-ai`: dermoscopy features, ranking, and LLM-based report generation | `Medical AI` `Computer Vision` `LLM` | [skin-cancer-ai.ru](https://skin-cancer-ai.ru/) |
-| [**LDT**](https://github.com/OdincovMD/LDT) | Real-time CTG analysis system for early detection of fetal hypoxia risk | `Python` `ML` `Signal Processing` | - |
-| [**skin-cancer-ai**](https://github.com/OdincovMD/skin-cancer-ai) | Melanoma detection pipeline with dermoscopy analysis and clinical description generation | `Computer Vision` `Healthcare` `Docker` | [skin-cancer-ai.ru](https://skin-cancer-ai.ru/) |
+| [**Sintezum**](https://github.com/OdincovMD/Sintezum) | Platform for university technology entrepreneurship: labs, organizations, vacancies, scientific requests, subscriptions, admin panel, and production ops docs | `FastAPI` `React` `PostgreSQL` `Elasticsearch` `MinIO` | - |
+| [**LDT**](https://github.com/OdincovMD/LDT) | Real-time CTG monitor for early fetal hypoxia risk: live stream, FIGO-inspired features, CatBoost risk model, history mode, and clinical reports | `Python` `FastAPI` `React` `ML` `Docker` | [ctg-ldt.ru](https://ctg-ldt.ru) |
+| [**skin-cancer-ai**](https://github.com/OdincovMD/skin-cancer-ai) | Interpretable melanoma analysis system with YOLO/UNet segmentation, Kittler-style decision tree, Celery pipeline, auth, profile, API docs, and MinIO storage | `Computer Vision` `FastAPI` `React` `Celery` `Docker` | [skin-cancer-ai.ru](https://skin-cancer-ai.ru/) |
+| [**img2txt**](https://github.com/OdincovMD/img2txt) | Internal description service for dermoscopy cases: image+mask features, bucketing, importance ranking, LLM-based clinical text, and callback flow | `Medical AI` `Computer Vision` `LLM` `SQLite` | [skin-cancer-ai.ru](https://skin-cancer-ai.ru/) |
+| [**laser-energy-monitor**](https://github.com/OdincovMD/laser-energy-monitor) | Desktop tool for laser-energy measurements, stability estimation, exports, simulation mode, and BeamGage/Ophir integrations | `C#` `.NET Framework 4.8` `WPF` `x86` | - |
+| [**arduino-bridge**](https://github.com/OdincovMD/arduino-bridge) | IoT bridge between Arduino Uno/Nano + ESP8266 and a VPS backend with command/result/state/event protocol | `Arduino` `ESP8266` `FastAPI` `PostgreSQL` `nginx` | - |
+| [**ai-copilot-for-learning-on-Stepik**](https://github.com/OdincovMD/ai-copilot-for-learning-on-Stepik) | Product docs and architecture for an AI sidebar that summarizes Stepik lessons, highlights pitfalls, and keeps learning guardrails explicit | `Product` `LLM` `Browser Extension` `Architecture` | - |
+| [**Sber Grace Assistant**](https://github.com/OdincovMD/sber-assistant) | Local finance assistant: SMS parsing via Ollama, grace-period tracking, Celery schedules, VK reports, investment lots, and CBR/MOEX integrations | `Python` `Ollama` `FastAPI` `Celery` `PostgreSQL` | - |
 | [**Practice**](https://github.com/OdincovMD/Practice) | Early pneumonia diagnosis system based on chest X-ray images | `Deep Learning` `Medical Imaging` `FastAPI` | [api.pneumonia-ai.ru](https://api.pneumonia-ai.ru/) |
 | [**SimpleAutoML**](https://github.com/OdincovMD/SimpleAutoML) | Lightweight AutoML system for computer vision experiments | `AutoML` `CV` `Python` | - |
-| [**Sber Grace Assistant**](https://github.com/OdincovMD/sber-assistant) | Local finance monitoring assistant with SMS parsing, background jobs, and LLM-driven recommendations | `Python` `Ollama` `Automation` | - |
 
-> **Now:** Building scientific hiring platforms, medical AI tooling, and practical LLM-assisted automation.
+> **Now:** Building scientific platforms, medical AI systems, hardware-adjacent tools, and practical LLM-assisted automation.
 
 ---
 
