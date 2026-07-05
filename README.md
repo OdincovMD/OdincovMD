@@ -83,7 +83,7 @@ Recent work I am especially excited about:
 
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :--- |
-| [**Sintezum**](https://github.com/OdincovMD/Sintezum) | Platform for university technology entrepreneurship: labs, organizations, vacancies, scientific requests, subscriptions, admin panel, and production ops docs | `FastAPI` `React` `PostgreSQL` `Elasticsearch` `MinIO` | - |
+| [**Sintezum**](https://github.com/OdincovMD/Sintezum) | Platform for university technology entrepreneurship: labs, organizations, vacancies, scientific requests, subscriptions, admin panel, and production ops docs | `FastAPI` `React` `PostgreSQL` `Elasticsearch` `MinIO` | [sintezum.ru](https://sintezum.ru/) |
 | [**LDT**](https://github.com/OdincovMD/LDT) | Real-time CTG monitor for early fetal hypoxia risk: live stream, FIGO-inspired features, CatBoost risk model, history mode, and clinical reports | `Python` `FastAPI` `React` `ML` `Docker` | [ctg-ldt.ru](https://ctg-ldt.ru) |
 | [**skin-cancer-ai**](https://github.com/OdincovMD/skin-cancer-ai) | Interpretable melanoma analysis system with YOLO/UNet segmentation, Kittler-style decision tree, Celery pipeline, auth, profile, API docs, and MinIO storage | `Computer Vision` `FastAPI` `React` `Celery` `Docker` | [skin-cancer-ai.ru](https://skin-cancer-ai.ru/) |
 | [**img2txt**](https://github.com/OdincovMD/img2txt) | Internal description service for dermoscopy cases: image+mask features, bucketing, importance ranking, LLM-based clinical text, and callback flow | `Medical AI` `Computer Vision` `LLM` `SQLite` | [skin-cancer-ai.ru](https://skin-cancer-ai.ru/) |
