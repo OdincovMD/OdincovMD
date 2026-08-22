@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Middle ML Engineer @ Sber</strong> · Kaggle Expert · Stepik streak: <strong><!-- stepik_streak -->697<!-- /stepik_streak --></strong> days<br /><br />
+  <strong>Middle ML Engineer @ Sber</strong> · Kaggle Expert · Stepik streak: <strong><!-- stepik_streak -->698<!-- /stepik_streak --></strong> days<br /><br />
   <em>I build applied ML systems across <strong>healthcare, computer vision, LLM tooling, IoT, and product engineering</strong>.<br />
   I like turning research ideas into working services, dashboards, and production-ready prototypes.</em>
 </p>
@@ -103,7 +103,7 @@ Recent work I am especially excited about:
 | Badge | Description |
 | :--- | :--- |
 | **Kaggle Expert** | Active participation, shared solutions and notebooks |
-| **Stepik** | Daily learning streak: **<!-- stepik_streak -->697<!-- /stepik_streak -->** days (auto-updated from [profile](https://stepik.org/users/658709050/profile)) |
+| **Stepik** | Daily learning streak: **<!-- stepik_streak -->698<!-- /stepik_streak -->** days (auto-updated from [profile](https://stepik.org/users/658709050/profile)) |
 | **Education** | See [Education](#education) section below |
 
 ---
